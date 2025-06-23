@@ -1,6 +1,6 @@
-# @kayaozkur/mcp-server-terminal-docs
+# @lepion/mcp-server-terminal-docs
 
-[![npm version](https://img.shields.io/npm/v/@kayaozkur/mcp-server-terminal-docs.svg)](https://www.npmjs.com/package/@kayaozkur/mcp-server-terminal-docs)
+[![npm version](https://img.shields.io/npm/v/@lepion/mcp-server-terminal-docs.svg)](https://www.npmjs.com/package/@lepion/mcp-server-terminal-docs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org/)
@@ -36,10 +36,10 @@ A powerful Model Context Protocol (MCP) server that provides intelligent termina
 
 ```bash
 # Install from npm (recommended)
-npm install -g @kayaozkur/mcp-server-terminal-docs
+npm install -g @lepion/mcp-server-terminal-docs
 
 # Or clone the repository for development
-git clone https://github.com/kayaozkur/mcp-server-terminal-docs.git
+git clone https://github.com/lepion/mcp-server-terminal-docs.git
 cd mcp-server-terminal-docs
 
 # Install dependencies
@@ -79,7 +79,7 @@ Add the following to your Claude Desktop configuration file:
   "mcpServers": {
     "terminal-docs": {
       "command": "npx",
-      "args": ["@kayaozkur/mcp-server-terminal-docs"],
+      "args": ["@lepion/mcp-server-terminal-docs"],
       "env": {
         "LOG_LEVEL": "info"
       }
@@ -416,10 +416,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Support
 
-- 🐛 [Report bugs](https://github.com/kayaozkur/mcp-server-terminal-docs/issues)
-- 💡 [Request features](https://github.com/kayaozkur/mcp-server-terminal-docs/issues)
-- 📖 [Read the docs](https://github.com/kayaozkur/mcp-server-terminal-docs/wiki)
-- 💬 [Join discussions](https://github.com/kayaozkur/mcp-server-terminal-docs/discussions)
+- 🐛 [Report bugs](https://github.com/lepion/mcp-server-terminal-docs/issues)
+- 💡 [Request features](https://github.com/lepion/mcp-server-terminal-docs/issues)
+- 📖 [Read the docs](https://github.com/lepion/mcp-server-terminal-docs/wiki)
+- 💬 [Join discussions](https://github.com/lepion/mcp-server-terminal-docs/discussions)
 
 ---
 
