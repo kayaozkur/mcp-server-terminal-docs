@@ -1,7 +1,7 @@
 {
   "name": "@lepion/mcp-server-terminal-docs",
   "version": "1.0.0",
-  "description": "Model Context Protocol server for intelligent terminal documentation and prompt enhancement",
+  "description": "Model Context Protocol server for intelligent terminal documentation and command prompt enhancement",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
